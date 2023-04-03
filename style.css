@@ -2,5 +2,8 @@ body{
     background-color: gray;
 }
 div{
-    background-color: darkorange; border-radius: 5px; width: 130px; margin: 25px; display: inline-block;
+    background-color: darkorange; border-radius: 5px; width: 130px; margin: 25px; float: right; padding-left: 35px;
+}
+.header2{
+    display: flex;
 }
