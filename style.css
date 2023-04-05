@@ -7,3 +7,9 @@ div{
 .header2{
     display: flex;
 }
+.desc{
+    background-color: grey;
+    width: 240px;
+    padding-right: 700px;
+    font-size: x-large;
+}
